@@ -1,4 +1,5 @@
-streamlit
+requests
+numpy
 pandas
 sklearn
-numpy
+streamlit
