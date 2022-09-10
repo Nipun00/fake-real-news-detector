@@ -1,0 +1,6 @@
+All the cloud platforms below need to know what Python packages to install before they can start the app. 
+We are specifying this in this requirements.txt file.
+1.streamlit
+2.pandas
+3.sklearn
+4.numpy
