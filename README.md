@@ -1,4 +1,4 @@
-# # fake-real-news-detector
+ # fake-real-news-detector
 
 <p>Here is the link to my project : https://nipun00-fake-real-news-detector-project-9ojykr.streamlitapp.com
 
@@ -19,5 +19,5 @@ Now I’m going to write a random fake news headline to see if the model predict
 ![image](https://user-images.githubusercontent.com/112875065/190887889-267cd371-b7d8-4728-845b-6ec8b368fc23.png)<br />
 ![image](https://user-images.githubusercontent.com/112875065/190887896-14bc09e3-2475-47d3-825a-a7c109cfcbdd.png)<br />
 
-###SUMMARY<br / >
+# SUMMARY <br / >
 So this is how we can train a machine learning model for the task of fake news detection by using the Python programming language. Fake news is one of the biggest problems because it leads to a lot of misinformation in a particular region. I hope you liked this project on the task of Fake News detection with machine learning using Python.
